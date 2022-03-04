@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe/task/build/
+/Simple Tic-Tac-Toe/task/out/
+/Simple Tic-Tac-Toe/task/out/production/classes/
+/Topics/Arrays as parameters/Sorting numbers/out/
+/Topics/Arrays as parameters/Sorting numbers/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
